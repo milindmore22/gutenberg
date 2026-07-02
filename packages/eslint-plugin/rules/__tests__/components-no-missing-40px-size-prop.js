@@ -102,7 +102,6 @@ ruleTester.run( 'components-no-missing-40px-size-prop', rule, {
 					RangeControl,
 					SelectControl,
 					ToggleGroupControl,
-					UnitControl,
 				} from '@wordpress/components';
 				<>
 					<CustomSelectControl __next40pxDefaultSize />
@@ -112,7 +111,6 @@ ruleTester.run( 'components-no-missing-40px-size-prop', rule, {
 					<RangeControl />
 					<SelectControl __next40pxDefaultSize />
 					<ToggleGroupControl />
-					<UnitControl __next40pxDefaultSize />
 				</>
 			`,
 		},
