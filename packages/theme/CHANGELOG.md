@@ -25,6 +25,10 @@
 -   Clarify that `--wpds-color-stroke-focus` is a standalone exception to the normal color token naming pattern ([#79764](https://github.com/WordPress/gutenberg/pull/79764)).
 -   Document the design token naming grammar in the token reference ([#79769](https://github.com/WordPress/gutenberg/pull/79769)).
 
+### Enhancements
+
+-   Widen React peer dependency ranges to `^18 || ^19` to support both React 18 and React 19 environments ([#80024](https://github.com/WordPress/gutenberg/pull/80024)).
+
 ## 0.17.0 (2026-06-30)
 
 ### Breaking Changes
