@@ -45,7 +45,7 @@ Other token families use shorter forms when a segment would be redundant:
 
 ### Type
 
-Indicates what kind of value the token represents, usually mapping to a [DTCG](https://design-tokens.github.io/community-group/format/) token type.
+Indicates what kind of value the token represents, usually mapping to a [Design Tokens Format Module](https://www.designtokens.org/tr/2025.10/format/) token type.
 
 | Value        | Description                                                                    |
 | ------------ | ------------------------------------------------------------------------------ |
