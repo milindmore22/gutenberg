@@ -39,6 +39,10 @@
 
 -   Add regression test coverage for the `ThemeProvider` wrapper's `display: contents` focus behavior ([#80056](https://github.com/WordPress/gutenberg/pull/80056)).
 
+### Code Quality
+
+-   Clean the npm package publish surface, correct ESM declaration export paths, and validate packed test/story artifacts and local export targets ([#79552](https://github.com/WordPress/gutenberg/pull/79552)).
+
 ## 0.17.0 (2026-06-30)
 
 ### Breaking Changes
