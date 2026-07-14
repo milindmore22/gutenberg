@@ -67,9 +67,10 @@
 	font-size: $font-size-small;
 	padding: $grid-unit-05 $grid-unit-05 $grid-unit-10;
 	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
+	text-overflow: clip;
+	white-space: normal;
 	width: 100%;
+	overflow-wrap: break-word;
 }
 
 .wp-block-icon__toolbar-content {
