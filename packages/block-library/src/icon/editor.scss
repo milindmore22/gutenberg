@@ -66,10 +66,6 @@
 .wp-block-icon__inserter-grid-icons-list-item-title {
 	font-size: $font-size-small;
 	padding: $grid-unit-05 $grid-unit-05 $grid-unit-10;
-	overflow: hidden;
-	text-overflow: clip;
-	white-space: normal;
-	width: 100%;
 	overflow-wrap: break-word;
 }
 
